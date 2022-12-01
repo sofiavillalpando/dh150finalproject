@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sofiavillalpando.github.io/dh150finalproject/sitemap.xml
